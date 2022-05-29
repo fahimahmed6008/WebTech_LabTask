@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> CV</title>
+	
+	<style>
+
+.Design{
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.Design2{
+  background-color: blue;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Design3{
+  background-color: purple;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Design4{
+  background-color: green;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Design5{
+  background-color: teal;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+</style>
+</head>
+
+
+<body>
+
+<div class="Design5">
+
+<h1>Fahim Ahmed </h1 ><p >Web Developer</p>
+<img src="fahimimg.jpg">
+
+</div>
+
+
+<div class="Design"><h3>Profile</h3>
+<p>I am Fahim Ahmed.I am a Web developer.I completed my Undergraduate from <a href="https://www.aiub.edu/">AIUB</a>. Now I am working at Brain Station 23 and my possition is Web Developer.</p>
+</div>
+
+<div class="Design2"><h3>Contact</h3>
+<ul>
+	<li>Phone: 01747-580902</li>
+	<li>Address: Kaliakair,Gazipur</li>
+	<li>Email: fahimahmed6008@gmail.com</li>
+	</div>
+
+</ul>
+
+
+<div class="Design3"><h3>Education</h3>
+<table style="border:1px solid black;">
+
+<tr>
+		<td style="border:1px solid black;"><b>SSC</b></td>
+		<td style="border:1px solid black;">Ansar VDP</td>
+		<td style="border:1px solid black;">5.0</td>
+</tr>
+
+<tr>
+		<td style="border:1px solid black;"><b>HSC</b></td>
+		<td style="border:1px solid black;">Milestone College</td>
+		<td style="border:1px solid black;">5.0</td>
+		
+</tr>
+
+<tr>
+		<td style="border:1px solid black;"><b>Undergraduate</b></td>
+		<td style="border:1px solid black;">American Internatiion University-Bangladesh</td>
+		<td style="border:1px solid black;">3.50</td>
+		
+</tr>
+	
+</table>
+</div>
+
+
+
+
+<div class="Design4">
+<h3>Skill</h3>
+<ul><h5>Programing Language</h5>
+	<li>PHP</li>
+	<li>Javasript</li>
+	<li>C#</li>
+	
+	<ul><h5>Frame Work</h5></ul>
+	<li>Laravel</li>
+	<li>React</li>
+	<li>.NET </li>
+	
+
+</ul>
+</td>
+
+</div>
+
+
+<div class="Design5">
+
+<h3>Experience</h3>
+<ol>
+
+<li><h5>Web Developer</h5></li><i>Brain Station 23</i>
+<li><h5>Junior Software Engineer</h5></li>
+<i>Delta Software Company,BD</i>
+</ol>
+</div>
+
+
+<div class="Design3">
+<h3>Hobbies</h3>
+
+<ul>
+	<li>Reading Bangla Literature</li>
+	<li>Traveling</li>
+	<li>Painting</li>
+</ul>	
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
